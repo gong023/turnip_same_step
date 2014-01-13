@@ -1,6 +1,6 @@
 module A
   step 'ログイン' do
-    expect(true).to be_false
+    expect(true).to be_false # should fail!!!
   end
 end
 
